@@ -26,6 +26,7 @@ Teófilo Otoni/MG
 **BackEnd:**
 * NodeJS
 * PHP
+* Laravel
 * Programação Orientada à Objeto
 * Testes de software
 
@@ -34,7 +35,6 @@ Teófilo Otoni/MG
 * ES6
 * VueJS
 * ReactJS
-* React Native
 * Redux
 * Webpack
 * Testes de software
@@ -44,11 +44,14 @@ Teófilo Otoni/MG
 * Automatizadores (Grunt, Gulp)
 * jQuery
 
+**Mobile:**
+* React Native
 
 **Banco de Dados:**
 * MySQL
 * PostgreSQL
 * SQLite
+* SQL Server
 
 
 **Infra**
@@ -64,8 +67,8 @@ Teófilo Otoni/MG
 * Sistema de Controle de versão *(git)*
 * Conhecimento em SEO
 * Conhecimento base em Design e Arquitetura de Software
-* Base de UX/UI.
-* Laravel
+* Base de UX/UI
+* Rest Full API.
 
 
 **Experiências em outras linguagens:**
@@ -98,10 +101,10 @@ Teófilo Otoni/MG
 
 > Criação de diversos projetos utilizando React Native/Redux, Laravel.
 
-* 2017/Dias Atuais - **Centro Educacional Top Line**
+* 2017 - 05/2020 - **Centro Educacional Top Line**
 > Atuo como professor da área de programação, ensinando desde a logica de programação a usar framework.
 
-* 2016/Dias Atuais– **Unipac - Faculdade Presidente Antônio Carlos**
+* 2016 - Dias Atuais– **Unipac - Faculdade Presidente Antônio Carlos**
 > Atuo no suporte aos funcionários internos, desenvolvimento de aplicações, sites e manutenção nos já existentes. Gerenciamento de plataformas Moodle, servidores e sistemas TOTVS.
 
 
